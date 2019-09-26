@@ -1,0 +1,5 @@
+projectKey=com.cg.demojpa:DemoJpa
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.cg.demojpa:DemoJpa
+ceTaskId=AW1I7aYk4wtMU7bvKMYS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW1I7aYk4wtMU7bvKMYS
